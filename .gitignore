@@ -1,0 +1,6 @@
+*.o
+*.out
+*.exe
+gemm/gemm
+softmax/softmax
+softmax/sofmax_1
