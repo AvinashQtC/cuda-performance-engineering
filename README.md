@@ -11,3 +11,7 @@ A collection of CUDA kernels, optimization techniques, profiling studies, and pe
 - cp.async
 - CUTLASS
 - Nsight Compute Profiling
+
+## Roadmap
+
+Learning plan and progress tracker: [ROADMAP.md](ROADMAP.md)
